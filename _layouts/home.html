@@ -34,7 +34,7 @@ layout: page
     {% endif %}
     {% endif %}
 
-    <a href="{{ post.url | absolute_url }}">
+    <!-- <a href="{{ post.url | absolute_url }}">
       <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
       {% if post.subtitle %}
@@ -64,9 +64,32 @@ layout: page
         <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
       </a>
     </div>
-    {% endif %}
+    {% endif %} -->
 
-    <div class="post-entry">
+
+    <nft-card
+    contractAddress="0x659cf1306edba213d1fb8f9352b4593a82b05d0c"
+    tokenId="2381">
+    </nft-card>
+    <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
+    <br>
+
+    <nft-card
+    contractAddress="0xd8b7cc75e22031a72d7b8393113ef2536e17bde6"
+    tokenId="1001300155">
+    </nft-card>
+    <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
+    <br>
+
+    <nft-card
+    contractAddress="0x1ca39c7f0f65b4da24b094a9afac7acf626b7f38"
+    tokenId="3476">
+    </nft-card>
+    <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
+    <!-- <div class="post-entry">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
       {% assign excerpt_word_count = post.excerpt | number_of_words %}
@@ -87,7 +110,7 @@ layout: page
 
    </article>
   {% endfor %}
-</div>
+</div> -->
 
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">

@@ -1,16 +1,32 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: A bit about me, myself and I
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+  Hi, my name is Rich 👋 I'm a born-and-raised Brit 🇬🇧 who has been living for the past 4 years in Berlin 🇩🇪 
+  
+  I post A TL;DR about myself:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+  * **Interests** - Hiking 🥾, Campervaning 🚐, Spoken Word 🎙, Brazilian music from the 60s/70s 🎵🇧🇷, Football ⚽️, Cricket 🏏, Psychology 🧠
 
-What else do you need?
+  * **Most Proud Of** - writing a play when I was 18, producing another play at school: *The History Boys*, my thesis on identity
 
-### My story
+  * **Currently reading** - Esther Perel's "Mating in Captivity"
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+  For work, here are some highlights:
+  * **Past Roles** - GM Germany / VP Global Outcomes @ Le Wagon
+
+  * **Work Interests** - Web3, Venture, Community, Product, Scaling Ops, Team-Building, Marketing
+
+  * **Favourite Tools** - Notion, Hubspot, Figma, Whimsical, Excalidraw
+
+
+  What I am looking for next:
+  - **People** - to be the most stupid person in the room amidst mission-driven people
+
+  - **Product** - to work on a product changing how the world works
+
+  - **Opportunity** - to help empower and grow a community that can redistribute power and wealth
+
